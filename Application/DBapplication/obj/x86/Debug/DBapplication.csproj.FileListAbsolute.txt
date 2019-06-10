@@ -1,0 +1,773 @@
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe.config
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\bin\Debug\DBapplication.exe
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\bin\Debug\DBapplication.pdb
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\Mohamed\Faculty\2nd Year\DataBase\2015 Fall\Lab 6\Lab6 - StoredProcedures\Lab6 - StoredProcedures 2015\Code\DBapplication\DBapplication\obj\x86\Debug\DBapplication.pdb
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\bin\Debug\DBapplication.exe.config
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.pdb
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\bin\Debug\DBapplication.exe
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\bin\Debug\DBapplication.pdb
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+E:\TA\Database\2017\Labs\Lab7 - Scripts_Stored Proc_Crystal Reports_Inst\Code\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.AddProject.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.AdminLogin.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.Provided_Functionalities.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.RetrieveProjects.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.ViewEmployees.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.Welcome.resources
+C:\Users\passe\Desktop\DBLABS\Code\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Mostafaa\Desktop\Proj DB\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\Mostafaa\Desktop\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\bin\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\bin\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+D:\Mostafa\study\jenior fall 2017\Database\projectemp\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\bin\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\bin\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase pre\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+D:\Mostafa\study\jenior fall 2017\Database\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddSale.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\passe\Desktop\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - Copy\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+E:\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewOrder.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\passe\Desktop\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+D:\Mostafa\study\jenior fall 2017\Database\DataBase-yrab - final2\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+F:\fall 2017\data base\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Database\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+E:\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+E:\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\FINAL\DataBase-yrab - final3\DataBase yrab\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\passe\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\gamal\Desktop\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\passe\Desktop\Design2\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+F:\fall 2017\data base\Design\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+F:\fall 2017\data base\Design\PRO\DBapplication\bin\Debug\DBapplication.exe
+F:\fall 2017\data base\Design\PRO\DBapplication\bin\Debug\DBapplication.pdb
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+F:\fall 2017\data base\Design\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+E:\Akher\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+E:\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+E:\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateInfo.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\Ahmed  Ibrahim\Gam3a\Junior\Semester 1\Akher\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\bin\Debug\DBapplication.exe.config
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\bin\Debug\DBapplication.exe
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\bin\Debug\DBapplication.pdb
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.csprojResolveAssemblyReference.cache
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AddPorB.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CheckSales.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.deleteemp.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.NewCustomer.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.PricesConf.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Admin.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AdminFunctionalities.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.AssignOrderEmp.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerChangePass.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.EmployeChangepass.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Employee.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.NewEmp.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Product.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Store.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Book.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Login.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Menu.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Order.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Printing.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.Properties.Resources.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.ShoppingCart.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreChangePass.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.StoreOrders.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateInfo.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.UpdateQuantities.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.CustomerOrders.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.ViewPayments.resources
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\DBapplication.csproj.GenerateResource.Cache
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\RdlCompile.cache
+C:\Users\passe\Desktop\Akher\PRO\DBapplication\obj\x86\Debug\RdlCompile.compiled
